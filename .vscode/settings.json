@@ -1,3 +1,5 @@
 {
-  "material-icon-theme.activeIconPack": "nest"
+  "material-icon-theme.activeIconPack": "nest",
+  "editor.fontFamily": "Hack, Fira Code Light, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 13
 }
